@@ -1,10 +1,11 @@
 import React from 'react'
 import styles from './style.module.css'
+import Navigation from "../navigation"
 
 const Header = () =>  {
     return (
         <div className={styles.main}>
-            <span>THIS IS A HEADER!</span>
+            <Navigation />
         </div>
     )
 }
