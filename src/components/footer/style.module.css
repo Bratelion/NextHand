@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+    justify-content: center;
+    margin:  auto;
+    height: 4em;
+    background-color: plum;
+}
